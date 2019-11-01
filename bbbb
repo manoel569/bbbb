@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1,Record
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1,A Fazenda 11
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/afazenda_70ac2ffc_0a2ebba910f5282c7cc7b79740bdde57240aee8e.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/telecinepipoca_fd937516_27f21657628b6db58015d21d15af0f119f34996a/410p/chunklist.m3u8
+#EXTINF:-1,HBO HD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/hbo1080p_63266754_d20fd447df4005cbb9fec8ce9fd266f8970a69f9.m3u8
+#EXTINF:-1,HBO PLUS
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_e919f05588eb6d00a5ddb31b6e00f7ef0e84bb3f.m3u8
+#EXTINF:-1,Max 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_688a56ea770c69a45923833211337df7e9b37306/playlist.m3u8
+#EXTINF:-1,FOX
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_5e5d3f5de7787a6179be714f2f7048f373f594d6/playlist.m3u8
+#EXTINF:-1,FOX HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_5e5d3f5de7787a6179be714f2f7048f373f594d6/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_942439f2adc42a4ea3b1daa191a7600ea893e498/playlist.m3u8
+#EXTINF:-1,Rede Tv
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/redetv_45cbe19f_436498dc75922ea8ced85ed4f5afc350ed96ec3e/270p/chunklist.m3u8
